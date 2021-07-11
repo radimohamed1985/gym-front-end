@@ -1,0 +1,158 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* upper nav +navbar*/
+.uppernav{
+    background-color:#db6324;
+    height: 40px;
+    color: white;
+    font-weight: bolder;
+    padding-top: 10px;
+}
+
+.navbar{background-color: #fefefe;}
+.navlogo{background-color: black;color: white;}
+.fchar{color: #db6324;}
+.schar{color: green;}
+
+/*  end upper nav +navbar*/
+
+
+/* start first section */
+.container-img{
+    height:700px;
+    width:99%;
+    background-color:#Eef0da;
+                }
+  .mainimg img {
+        width:99%;
+     height: 400px;
+                }            
+
+.itm{
+    background-color:  whitesmoke;
+    width: 120px;
+    height: 120px;
+    line-height: 180px;
+    border-radius: 50%;
+    margin-left: 150px;
+
+}
+.itm-bar{
+    margin-left: 100px;
+    margin-bottom:20px;
+    margin-top:10px;
+}
+
+/* end first section */
+
+/* start secand section */
+
+.offer1{
+    width: 570px;
+    height: 400px;
+    margin-bottom:10px;
+}
+.offers h5{
+    padding-top: 80px;
+    text-align: center;
+}
+/* end secand section */
+
+/* start third section */
+
+
+.item{
+    background-color: #db6324;
+    color: white;
+    text-align: center;
+    width: 290px;
+    height: 200px;
+    margin-right: -12px;
+}
+
+
+.imgcol1{
+    width:580px;
+    height: 200px;
+   
+}
+
+
+.pic{
+    width:280px;
+    height: 200px;
+
+}
+.pic2{
+    width:290px;
+    height: 200px;
+
+
+}
+.pic3{
+    width:294px;
+    height: 200px;
+}
+/* end third section */
+
+
+.rate{
+    height: 400px;
+    width:100%;
+    background-color: #5d23da;
+    margin-top: 10px;
+}
+.rate h3{
+    color:gold;
+    padding-top: 100px;
+}
+.rcomment{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    font-weight:bold;
+}
+
+
+/* end third section*/
+
+
+/*  start footer */
+footer{
+    height: 60px;
+    background-color: #333333;
+    width:100%;
+    color: white;
+    margin-left: 20px;
+    margin-top:10px;
+    margin-left: -2px;
+}
+
+.flogo{
+    position: absolute;
+    margin-top: 10px;
+    right: 220px;
+}
+.logo{
+    background-color: white;
+    line-height: 70px;
+    height: 70px;
+    margin-left: 20px;
+    font-weight: bolder;
+    color: black;
+}
+
+.links a{
+    color:white;
+    font-weight: bolder;
+    position: relative;
+    left: 400px;
+    margin-left: 10px;
+}
+/*  end footer */
